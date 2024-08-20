@@ -160,7 +160,7 @@ const HomePage = ({ apiKey, users }: { apiKey: string; users: User[] }) => {
             <p style={{ marginTop: "20px", textAlign: "center", color: "#424242" }}>
                 You can find the bot at:{" "}
                 <a
-                    href="https://t.me/muskan10_bot"
+                    href="https://telegram.me/muskan10_bot"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{
@@ -169,7 +169,7 @@ const HomePage = ({ apiKey, users }: { apiKey: string; users: User[] }) => {
                         fontWeight: "bold",
                     }}
                 >
-                    https://t.me/muskan10_bot
+                    https://telegram.me/muskan10_bot
                 </a>
             </p>
         </div>
